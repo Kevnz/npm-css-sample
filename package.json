@@ -1,0 +1,38 @@
+{
+  "name": "Sample",
+  "version": "1.0.0",
+  "description": "Sample apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp", 
+    "css": "gulp buildcss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kevnz/xms.git"
+  },
+  "keywords": [
+ 
+  ],
+  "author": "Kevin Isom",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "d9394d7ee12a59da0888878ca31ec601e84bbba8",
+  "devDependencies": {
+    "font-awesome": "^4.3.0",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-rework": "^1.0.3",
+    "gulp-watch": "^4.2.0",
+    "pure-extras": "^1.0.0",
+    "purecss": "^0.6.0",
+    "rework-custom-media": "^0.2.0",
+    "rework-import": "^2.0.1",
+    "rework-inherit": "^0.2.3",
+    "rework-npm": "^1.0.0",
+    "rework-vars": "^3.1.1"
+  },
+  "dependencies": {
+
+  }
+}
